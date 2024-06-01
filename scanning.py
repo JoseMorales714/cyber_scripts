@@ -1,3 +1,8 @@
+# run in terminal by
+# python scanning.py <ipv4 network> <netmask>
+# python scanning.py 10.100.1.0 24
+# python scanning.py 10.200.1.0 24
+
 import sys
 import os
 
